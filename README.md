@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello 👋
 
-Get to know me by:
+Here's something about myself
 
 - [`Brontosaurus` Authorization Solution - Document](https://brontosaurus.land)
 - [`Sudoo` Packages - Document](https://sudo.dog)
