@@ -1,4 +1,4 @@
-### Stuff and I 👋
+### My Stuff and I 👋
 
 - [`Barktler` API Solution - Document](//barktler.com)
 - [`Brontosaurus` SSO Solution - Document](//brontosaurus.land)
