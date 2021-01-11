@@ -1,4 +1,4 @@
-### My Work and I 👋
+### My work and I 👋
 
 - [`Barktler` API Solution - Document](//barktler.com)
 - [`Brontosaurus` SSO Solution - Document](//brontosaurus.land)
