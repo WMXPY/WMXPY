@@ -1,6 +1,6 @@
 [My Work and Me](//mengw.io)
 
--   [`Imbricate` Note taking Framwork](//imbricate.io)
+-   [`Imbricate`](//imbricate.io)
 -   [`Marked` JS/TS Code Runner](//marked.sudo.dog)
 -   [`Sudoo` Packages - Document](//sudo.dog)
 -   [`Sudoo` Packages Blog & Case Study](//sudo.mengw.io)
