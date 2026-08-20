@@ -1,5 +1,6 @@
 [My Work and Me](//mengw.io)
 
+-   [`Sudomimus` an identity provider and authentication platform for trusted application sessions](//sudomimus.com)
 -   [`Imbricate` Notebook for Engineers](//imbricate.io)
 -   [`Marked` JS/TS Code Runner](//marked.sudo.dog)
 -   [`Sudoo` Packages - Document](//sudo.dog)
